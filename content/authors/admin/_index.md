@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Sneha Hingrajiya
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sneha
+last_name: Hingrajiya
 
 # Status emoji
 status:
@@ -20,35 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Aspiring Information Security auditor
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+#organizations:
+#  - name: OpenAI
+#    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:snehahingrajiya@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  # url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/sneha_hingrajiya/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/SnehaHingrajiya
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/sneha-hingrajiya-03981510a/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Security compliance
+  - ISO 27001
   - Information Retrieval
 
 education:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am tenacious, diligent and perceptive person with a strong background in Information security and compliance, looking for an opportunity as an internal or external auditor.  I am passionate for information security and eager to contribute to organizational compliance and excellence. My potential to exercise due-care and due-diligence adds value to my career as an auditor.
